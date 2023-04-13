@@ -9,7 +9,7 @@
 
 ## About <a name="about">
 
-MyEventManager is an application that allows users to make changes to their Google Calendar events using a streamlined interface. The application is best suited for users who want to make changes to their calendar quickly, and do not enjoy the overwhelming options presented on the web interface. Changes made in the application are reflected immediately on your Calendar.
+MyEventManager is a desktop application that allows users to make changes to their Google Calendar events using a streamlined interface. The application is best suited for users who want to make changes to their calendar quickly, and do not enjoy the overwhelming options presented on the web interface. Changes made in the application are reflected immediately on your Calendar.
 
 #### Features:
 - Adding and deleting events
