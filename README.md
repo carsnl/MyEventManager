@@ -72,7 +72,7 @@ Refer to [Preview](#preview).
 
 ## Additional Information <a name="info">
 
-Developed using Python, PyUnit and Qt.
+Developed using Python, PyUnit, Qt and Google Calendar API.
 
 The final application presented in this repository is an adapted version from a university project. Developed in collaboration with Rosheen Rajeesh and Cheng Zi Ming.
 
