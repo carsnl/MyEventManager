@@ -48,9 +48,9 @@ MyEventManager is an application that allows users to make changes to their Goog
 #### Importing events into Google Calendar
 ![import1](./images/import1.png)
 
-![import2](./images/import2.png)
+![import2](./images/import3.png)
 
-![import3](./images/import3.png)
+![import3](./images/import2.png)
 
 ![import4](./images/import4.png)
 
@@ -68,7 +68,7 @@ MyEventManager is an application that allows users to make changes to their Goog
 
 #### Using the application
 
-Refer [Preview](#preview).
+Refer to [Preview](#preview).
 
 ## Additional Information <a name="info">
 
